@@ -18,6 +18,7 @@ python index.py
 After installing the module and before running it, you'd need an auth token along with a specific browser.
 #### **Dolphin Anty Browser Auth Token**
 ![Basic](https://techzeel.net/wp-content/uploads/2024/01/dolphin-anty-browser.webp)
+
 Follow these steps to get an auth token from Dolphin Anty browser:
 
 1. Generate an API access token. Go to the Dolphin Anty panel.
