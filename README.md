@@ -8,7 +8,7 @@ Python 3.12.2
 ```
 ### On Windows:
 ```cmd
-git clone https://www.github.com/halfstackpgr/Generator.git
+git clone https://www.github.com/arnavos/Generator.git
 cd Generator
 python -m venv env
 ./env/Scripts/Activate.ps1
